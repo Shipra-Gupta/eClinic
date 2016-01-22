@@ -1,0 +1,17 @@
+{
+  "name": "patientapp",
+  "version": "1.0.0",
+  "description": "Patient application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shipra",
+  "license": "MIT",
+  "dependencies": {
+	"express": "latest"	,
+	"ejs":"latest",
+	"body-parser":"latest",
+   "mongodb": "latest"
+}
+}
